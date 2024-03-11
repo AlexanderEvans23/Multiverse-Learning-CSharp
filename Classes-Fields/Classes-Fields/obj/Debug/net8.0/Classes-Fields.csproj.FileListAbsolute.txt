@@ -1,0 +1,15 @@
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\bin\Debug\net8.0\Classes-Fields.exe
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\bin\Debug\net8.0\Classes-Fields.deps.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\bin\Debug\net8.0\Classes-Fields.runtimeconfig.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\bin\Debug\net8.0\Classes-Fields.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\bin\Debug\net8.0\Classes-Fields.pdb
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\Classes-Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\Classes-Fields.AssemblyInfoInputs.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\Classes-Fields.AssemblyInfo.cs
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\Classes-Fields.csproj.CoreCompileInputs.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\Classes-Fields.sourcelink.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\Classes-Fields.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\refint\Classes-Fields.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\Classes-Fields.pdb
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\Classes-Fields.genruntimeconfig.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Classes-Fields\Classes-Fields\obj\Debug\net8.0\ref\Classes-Fields.dll
