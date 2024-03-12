@@ -1,0 +1,15 @@
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\bin\Debug\net8.0\Shape-Calculator.exe
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\bin\Debug\net8.0\Shape-Calculator.deps.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\bin\Debug\net8.0\Shape-Calculator.runtimeconfig.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\bin\Debug\net8.0\Shape-Calculator.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\bin\Debug\net8.0\Shape-Calculator.pdb
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\Shape-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\Shape-Calculator.AssemblyInfoInputs.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\Shape-Calculator.AssemblyInfo.cs
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\Shape-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\Shape-Calculator.sourcelink.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\Shape-Calculator.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\refint\Shape-Calculator.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\Shape-Calculator.pdb
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\Shape-Calculator.genruntimeconfig.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Shape-Calculator\Shape-Calculator\obj\Debug\net8.0\ref\Shape-Calculator.dll
