@@ -10,11 +10,15 @@ namespace Shape_Calculator
     {
         int length;
         int width;
+        public int height;
 
-        public Shape(int shapeLength, int shapeWidth)
+        
+
+        public Shape(int shapeLength, int shapeWidth, int shapeHeight)
         {
             length = shapeLength;
             width = shapeWidth;
+            height = shapeHeight;
         }
 
         public virtual int area()

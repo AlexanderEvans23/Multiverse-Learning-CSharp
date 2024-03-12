@@ -12,7 +12,7 @@ namespace Shape_Calculator
     {
         private double radius;
 
-        public Circle(int shapeLength, int shapeWidth, double radius) : base(shapeLength, shapeWidth)
+        public Circle(int shapeLength, int shapeWidth,int shapeHeight,  double radius) : base(shapeLength, shapeWidth, shapeHeight)
         {
             this.radius = radius;
         }
