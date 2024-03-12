@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inventory_app
 {
+    //class for creating and tracking users
     internal class User
     {
     }
