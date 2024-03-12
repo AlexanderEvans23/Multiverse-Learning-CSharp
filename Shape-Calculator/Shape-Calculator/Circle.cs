@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Formats.Asn1;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
@@ -9,21 +10,21 @@ namespace Shape_Calculator
 {
     public class Circle : Shape
     {
-        public Circle(int shapeLength, int shapeWidth) : base(shapeLength, shapeWidth)
+        private double radius;
+
+        public Circle(int shapeLength, int shapeWidth, double radius) : base(shapeLength, shapeWidth)
         {
-           
+            this.radius = radius;
         }
+        
 
-        int waistline;
+        
 
-        public Circle(int circleRadius)
+        public override int area()
         {
-             waistline = circleRadius;
-        }
-
-        public int radius()
-        {
-            return 
+            return (int)(3.14 * (radius * radius));
         }
     }
+
+    
 }

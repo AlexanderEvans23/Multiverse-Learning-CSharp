@@ -9,8 +9,8 @@ namespace ShapeCalculator
     {
         static void Main(string[] args)
         {
-            Shape shape1 = new Shape(5, 2);
-            Console.WriteLine(shape1.area());
+            Circle c1 = new Circle(3, 4, 5);
+            Console.WriteLine(c1.area());
         }
     }
 }
