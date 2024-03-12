@@ -17,10 +17,9 @@ namespace Inventory_app
         }
 
         //method that allows user to add new item to inventory
-        public List<Item> addItem(Item item)
+        public void addItem(Item item)
         {
             items.Add(item);
-            return items;
         }
 
         //method that allows user to delete item from inventory

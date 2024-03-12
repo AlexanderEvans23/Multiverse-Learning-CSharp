@@ -9,16 +9,10 @@ namespace Inventory_app
     //class to be the base for creating items
     public class Item
     {
-        public int id { get; set; }
-        public string name { get; set; }
-        public string description { get; set; }
-        public int quantity { get; set; }
-        public double price { get; set; }
-
-        public int Id { 
-            get { return quantity; }
-            set { id = value; }
-        }
+        private int quantity;
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public double Price { get; set; }
 
         public int Quantity
         {
@@ -38,11 +32,15 @@ namespace Inventory_app
 
         public Item(string name, string description, int quantity, double price)
         {
-            this.name = name;
-            this.description = description;
-            this.quantity = quantity;
-            this.price = price;
+            Name = name;
+            Description = description;
+            Quantity = quantity;
+            Price = price;
         }
 
+        public override string ToString()
+        {
+            return $"{Name}\n{Description}\n{Quantity}\n{Price}";
+        }
     }
 }
