@@ -31,9 +31,24 @@ namespace Inventory_app
         }
 
         //method that allows user update item in inventory
-        public void updateItem(Item item, Item newItem)
+        public void updateItem(Item currentItem, Item newItem)
         {
-            
+            //create a loop that allows user to find the specific item and replace it with the next item entered
+            items.ForEach(item =>
+            {
+                if (item == currentItem)
+                {
+                    //take the list of items, grab the specific item that matches and place the new item onto the older one
+                    int previous = items.IndexOf(item);
+                    items.RemoveAt(previous);
+                    items.Insert(previous, newItem);
+                }
+            });
+        }
+
+        public List<Item> getItems()
+        {
+            return items;
         }
     }
 }
