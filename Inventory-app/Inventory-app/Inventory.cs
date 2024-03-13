@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Complete!
 namespace Inventory_app
 {
     //class to keep track of inventory as a whole
@@ -16,7 +16,7 @@ namespace Inventory_app
         { 
         }
 
-        //method that allows user to add new item to inventory
+        //method that allows user to add new item to inventory/not needed tdue to the add method in c#
         public void addItem(Item item)
         {
             items.Add(item);
@@ -33,16 +33,18 @@ namespace Inventory_app
         public void updateItem(Item currentItem, Item newItem)
         {
             //create a loop that allows user to find the specific item and replace it with the next item entered
-            items.ForEach(item =>
-            {
-                if (item == currentItem)
+           
+                if (items.Contains(currentItem))
                 {
-                    //take the list of items, grab the specific item that matches and place the new item onto the older one
-                    int previous = items.IndexOf(item);
+                    int previous = items.IndexOf(currentItem);
                     items.RemoveAt(previous);
                     items.Insert(previous, newItem);
-                }
-            });
+                    //take the list of items, grab the specific item that matches and place the new item onto the older one
+                    /*int previous = items.IndexOf(item);
+                    items.RemoveAt(previous);
+                    items.Insert(previous, newItem);*/
+                
+            };
         }
 
         public List<Item> getItems()
