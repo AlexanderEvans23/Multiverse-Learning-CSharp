@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Inventory_app
 {
     //class to keep track of inventory as a whole
+
     public class Inventory
     {
         //array to keep track of stock
