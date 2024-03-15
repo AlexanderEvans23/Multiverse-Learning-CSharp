@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inventory-app")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4cda96a181e07c1f6664c1ffc88e41a477363a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a1e5150bd4b4d8104f2315ba430e6347a6dc82")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inventory-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inventory-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

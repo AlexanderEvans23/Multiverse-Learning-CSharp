@@ -1,0 +1,15 @@
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\Inventory-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\Inventory-app.AssemblyInfoInputs.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\Inventory-app.AssemblyInfo.cs
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\Inventory-app.csproj.CoreCompileInputs.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\Inventory-app.sourcelink.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\bin\Debug\net8.0\Inventory-app.exe
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\bin\Debug\net8.0\Inventory-app.deps.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\bin\Debug\net8.0\Inventory-app.runtimeconfig.json
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\bin\Debug\net8.0\Inventory-app.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\bin\Debug\net8.0\Inventory-app.pdb
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\Inventory-app.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\refint\Inventory-app.dll
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\Inventory-app.pdb
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\Inventory-app.genruntimeconfig.cache
+C:\Users\aevans\source\repos\Multiverse-Learning-CSharp\Inventory-App\Inventory-app\obj\Debug\net8.0\ref\Inventory-app.dll
